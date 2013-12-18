@@ -1,0 +1,224 @@
+storyjs_jsonp_data = {
+    "timeline":
+    {
+        "headline":"인터렉션 디자인 Interaction Design 1 Timeline",
+        "type":"default",
+		"text":"20101624 안현욱",
+		"startDate":"2013,8,26",
+        "date": [
+            {
+                "startDate":"2013,8,29",
+				"endDate":"2012,9,4",
+                "headline":"오리엔테이션",
+                "text":"<p>교수님이 왜 그토록 이 과목을 수강하는데에 그렇게 경고를 하신건지 지금와서야 이해가 간다.<br>저 때가 아직 행복했을때다.</p>",
+                "asset":
+                {
+                    "media":"./media/orien.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,5",
+				"endDate":"2012,9,11",
+                "headline":"도입",
+                "text":"<p>마음에 맞는 사람들끼리 조를 짜는 시간. 앞으로의 수업을 위한 밑밥을 까는 시간이었다.<br>이 때 LETS의 기본적인 룰을 경험해보았던 것 같다.</p>",
+                "asset":
+                {
+                    "media":"./media/001.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,9,12",
+				"endDate":"2012,9,18",
+                "headline":"본격적인 JS 시작을 위한 준비",
+                "text":"<p>CmapTools의 기본적인 운용과 번다운 차트의 이해, 그리고 본격적으로 자바스크립트를 공부하기 위해 조별계획을 세워나간다.<br>여담이지만 이 때까지만 해도 노트북이 없었는데 수업하기가 정말로 힘들었다.</p>",
+                "asset":
+                {
+                    "media":"./media/002.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,9,19",
+				"endDate":"2012,9,25",
+                "headline":"추석 연휴",
+                "text":"<p>연휴라 대구에 내려왔는데 과제 때문에 마음이 그리 편치 못했다.<br>하지만 노트북 구입! 야 기분좋다!</p>",
+                "asset":
+                {
+                    "media":"./media/003.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,9,26",
+				"endDate":"2012,10,2",
+                "headline":"Being Computer",
+                "text":"<p>자바스크립트로 컴퓨터에게 명령을 내리기전 우리가 직접 인간컴퓨터가 되어 그 과정을 직접 피부로 경험해보는 시간을 가졌다.<br>더불어 자바스크립트 공부는 난항중..</p>",
+                "asset":
+                {
+                    "media":"./media/004.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,10,3",
+				"endDate":"2012,10,9",
+                "headline":"Being Computer 2",
+                "text":"<p>이번에는 직접 내가만든 개체의 알고리즘을 프로그래밍 하여 서로의 컴퓨터와 상호작용하는 시간을 가져보았다.<br>진짜로 컴퓨터에 구현될지의 여부는 생각하지 않은 채 파트너와 낄낄대며 서로의 캐릭터를 공격하면서 놀았다. (이건 코드카데미의 드래곤 슬레이어의 영향 때문이 아닐까?)<br>참고로 나의 캐릭터 코쟁이는 불타는 코딱지를 날릴 수 있다.<br>그리고 이 날은 개천절이었다. 흑흑</p>",
+                "asset":
+                {
+                    "media":"./media/005.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,10,10",
+				"endDate":"2012,10,16",
+                "headline":"새로운 가능성을 맛보다",
+                "text":"<p>삼각함수가 나와 지루했다.<br>이해는 되는데 이걸 왜 알아야 되는건지를 몰랐다.<br>그런데 막판에 자바와 삼각함수가 만났을 때의 그 위력을 영상으로 본 순간 신세계가 열린 느낌. 솔직한 감상은 욕심은 나는데 섣불리 건드리지를 못 할 것 같았다.</p>",
+                "asset":
+                {
+                    "media":"./media/006.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,10,17",
+				"endDate":"2012,10,23",
+                "headline":"시험을 위한 LETS",
+                "text":"<p>학기 초에 살짝 맛봤던 LETS를 본격적으로 체험하는 시간을 가졌다. 배움을 받는것도 물론 중요하지만, 내가 알고있는 정보와 사실들을 남에게 알려주는 기쁨 또한 알게되어 상당히 뿌듯한 경험을 한 것 같다.</p>",
+                "asset":
+                {
+                    "media":"./media/007.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,10,24",
+				"endDate":"2012,10,30",
+                "headline":"함께 공부하는 시험",
+                "text":"<p>그동안 코드카데미에서 공부해온 자바스크립트 및 Html/Css를 점검하는 시간을 가졌다. 어느 단계까지는 문제를 어려움 없이 풀 수 있었는데, 막판쯤에 거의 자력으로 스크립트를 작성할때는 평소에 따라서 작성하던 가이드가 없이 혼자서 처음부터 생각할려니 상당히 힘들었다.<br>자바스크립트를 다루는 사람은 새삼 대단하다는 생각이 들었다.</p>",
+                "asset":
+                {
+                    "media":"./media/008.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,10,31",
+				"endDate":"2012,11,6",
+                "headline":"배움과 따라오는 자극",
+                "text":"<p>처음으로 GitHub의 존재를 알았다. 사실 이 날은 SublineText2를 비롯하여 생소한 툴들 때문에 수업을 따라가기 살짝 버거웠는데, 다행히 CSS를 다루는 것 외에는 따로 어려운 내용을 나가지않아 대체적으로 만족스러운 수업이었다.<br>여담으로 수업 초반부에 보여준 Makey Makey 영상이 정말 흥미롭고 인상깊어서, 집에가서 쇼핑몰을 검색해보니 대부분 가격이 9~10만원...</p>",
+                "asset":
+                {
+                    "media":"./media/009.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,11,7",
+				"endDate":"2012,11,13",
+                "headline":"조형전 LETS",
+                "text":"<p>정신없었던 조형전 준비가 끝나고, 개막 이후의 컨퍼런스의 일환으로 진행된 ID1 LETS수업. 타과생이나 일반인들의 참여도 있기에 시작 전에 살짝 긴장도 했었는데 결국 우리과 사람들만 남더라. 수업 주제가 다양해 듣는 재미도 각별했다.<br>사실 수업이라기보단 서로의 기호를 묻고 답하는 잡담이었지만..</p>",
+                "asset":
+                {
+                    "media":"./media/010.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,11,21",
+				"endDate":"2012,11,27",
+                "headline":"감기",
+                "text":"<p>내가 고ㅈ..감기라니!</p>",
+                "asset":
+                {
+                    "media":"./media/011.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,11,28",
+				"endDate":"2012,12,4",
+                "headline":"응용",
+                "text":"<p>JS를 이용해 간단한 도형부터 시작해서 복잡한 문양까지 만들어보는 시간을 가졌다. 어찌어찌 따라가기는 했는데 이걸 혼자서 하기에는 당시의 나로써는 엄두도 못낼 수준이었다.<br>n-e-r-v-o-u-s 사이트에 나오는 모델링 예시는 상당히 자극적이었다. 저런걸 프로그래밍으로 만들 수 있다는 사실이 그저 신기할 따름..</p>",
+                "asset":
+                {
+                    "media":"./media/012.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,12,5",
+				"endDate":"2012,12,11",
+                "headline":"3차 LETS",
+                "text":"<p>교수님의 불참으로 자유로운 LETS! 거의 학기 막바지라 심신이 지쳐있었던 찰나에 기존의 내용을 복습하며 조금이나마 숨을 돌릴 수 있었던 시간이었다.</p>",
+                "asset":
+                {
+                    "media":"./media/013.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+			{
+                "startDate":"2013,12,12",
+				"endDate":"2012,12,18",
+                "headline":"마무리를 하며",
+                "text":"<p>종강 전 주의 수업은 진도보다도 회고를 해보는 시간을 가졌다. 사실 인터랙션 수업을 들으면서 놓친 과제도 많았고, 초심이 많이 흔들렸던 이 시기에 교수님이 우리가 처음에 썼었던 자기소개를 나누어주셨다. 종이에 적힌 각오아닌 각오를 다시 들여다보니 참 여러가지 생각이 들었다.</p>",
+                "asset":
+                {
+                    "media":"./media/014.jpg",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,9,26",
+                "headline":"Quests",
+                "text":"<p>what we did</p>",
+                "asset":
+                {
+                    "media":"./media/quest.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,10,1",
+                "headline":"Graphs",
+                "text":"<p>some graphs</p>",
+                "asset":
+                {
+                    "media":"./media/graph.png",
+                    "credit":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"2013,12,19",
+                "headline":"End",
+                "text":"<p>at last!</p>",
+                "asset":
+                {
+                    "media":"http://www.youtube.com/watch?v=WVOqKDhWXYc",
+                    "credit":"",
+                    "caption":""
+                }
+            }
+        ]
+    }
+}
